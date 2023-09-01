@@ -6,6 +6,7 @@
 #include <functional>
 #include <chrono>
 #include <fstream>
+#include <cassert>
 
 #include "../src/sorting_algorithms.h"
 #include "input_generator.h"
